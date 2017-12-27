@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "648020300740",
+    "firebase_url": "https://truco-7f18d.firebaseio.com",
+    "project_id": "truco-7f18d",
+    "storage_bucket": "truco-7f18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648020300740:android:3a609630ffd8edd1",
+        "android_client_info": {
+          "package_name": "ar.com.seac.anotadortruco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648020300740-v8ucdvumh30bsk0nsgcke6641pefbqmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLb_6fHpKYM1cvOtjrRoSx8gJm-x4vX7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
